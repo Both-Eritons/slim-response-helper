@@ -1,0 +1,18 @@
+{
+    "name": "eriton/slim-response-helper",
+    "autoload": {
+        "psr-4": {
+            "Eriton\\SlimResponseHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eriton",
+            "email": "botheritons2005@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7"
+    }
+}
