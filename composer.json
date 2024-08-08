@@ -2,7 +2,7 @@
     "name": "eriton/slim-response-helper",
     "autoload": {
         "psr-4": {
-            "Eriton\\SlimResponseHelper\\": "src/"
+            "Ereto\\Json\\": "src/"
         }
     },
     "authors": [
