@@ -1,6 +1,6 @@
 <?php
 
-namespace Ereto\Json;
+namespace EretoJson;
 
 use DateTime;
 use DateTimeZone;

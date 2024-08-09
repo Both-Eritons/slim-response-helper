@@ -1,10 +1,16 @@
 {
     "name": "eriton/slim-response-helper",
+    "description": "Helper to Slim Response",
+    "keywords": ["helper", "slim", "eriton"],
+    "license": "MIT",
+    "type": "library",
     "autoload": {
         "psr-4": {
-            "Ereto\\Json\\": "src/"
+            "EretoJson\\": "src/"
         }
     },
+    "require": {"php": ">=8.3"},
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Eriton",
